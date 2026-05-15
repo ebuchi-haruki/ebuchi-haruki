@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ebuchi-haruki&color=blue" />
+</div>
 
-<!--
-**ebuchi-haruki/ebuchi-haruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Haruki
 
-Here are some ideas to get you started:
+- 🎓 **University**: Ritsumeikan University (Sophomore)
+- 📱 **Focus**: iOS (Swift / Vapor) & Web Development (React / Firebase)
+- 🛠️ **Current Project**: Building "Item Logbook" & IoT monitoring devices
+- 🌱 **Learning**: Deepening my knowledge in Swift and Backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,cpp,c,react,firebase,js,ts,apple,figma,arduino,raspberrypi,github,git,discord" />
+
+<br>
+
+## 🏃‍♂️ Activities
+<div align="left"> 
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ebuchi-haruki&theme=vue-dark&show_icons=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebuchi-haruki&theme=vue-dark&layout=compact" />
+</div>
+
+<br>
+
+## 📫 Connect with me
+- **GitHub**: [ebuchi-haruki](https://github.com/ebuchi-haruki)
+- **Interests**: J-Pop (back number / SEKAI NO OWARI), Snowboarding
