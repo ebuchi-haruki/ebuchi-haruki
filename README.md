@@ -5,9 +5,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Haruki
 
 - 🎓 **University**: Ritsumeikan University (Sophomore)
-- 📱 **Focus**: iOS (Swift / Vapor) & Web Development (React / Firebase)
-- 🛠️ **Current Project**: Building "Item Logbook" & IoT monitoring devices
-- 🌱 **Learning**: Deepening my knowledge in Swift and Backend architecture
+- 📱 **Focus**: iOS (Swift) & Web Development (React)
+- 🛠️ **Current Project**: Building an opponent analysis app
+- 🌱 **Learning**: Deepening my knowledge in Swift and React
 
 <br>
 
@@ -20,4 +20,3 @@
 
 ## 📫 Connect with me
 - **GitHub**: [ebuchi-haruki](https://github.com/ebuchi-haruki)
-- **Interests**: J-Pop (back number / SEKAI NO OWARI), Snowboarding
