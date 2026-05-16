@@ -12,15 +12,9 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,cpp,c,react,firebase,js,ts,apple,figma,arduino,raspberrypi,github,git,discord" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,cpp,c,react,firebase,js,ts" />
 
 <br>
-
-## 🏃‍♂️ Activities
-<div align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ebuchi-haruki&theme=vue-dark&show_icons=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebuchi-haruki&theme=vue-dark&layout=compact" />
-</div>
 
 <br>
 
